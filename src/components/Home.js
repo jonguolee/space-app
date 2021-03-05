@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import Typist from "react-typist";
+import FadeIn from "react-fade-in";
 
 export default function Home() {
     const [quoteData, setQuoteData] = useState(null);
@@ -29,13 +30,13 @@ export default function Home() {
     return (
 
         <div className="home">
-            <video src="videos/space-vid.mp4" autoPlay loop muted></video>
             <Typist cursor={{ show: false }}>
                 <h1 className="fancy">{quoteData.facts[getRandomInt(quoteData.facts.length)].content}</h1>
             </Typist>
 
-            <Link className="home-link" to="/nasaphoto">Explore the Cosmos</Link>
-
+            <FadeIn>
+                <Link className="home-link" to="/nasaphoto">Explore the Cosmos</Link>
+            </FadeIn>
 
         </div>
     );
