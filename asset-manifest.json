@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jonguolee/space-app/static/css/main.92121535.chunk.css",
+    "main.js": "/jonguolee/space-app/static/js/main.6e943da2.chunk.js",
+    "main.js.map": "/jonguolee/space-app/static/js/main.6e943da2.chunk.js.map",
+    "runtime-main.js": "/jonguolee/space-app/static/js/runtime-main.da975d08.js",
+    "runtime-main.js.map": "/jonguolee/space-app/static/js/runtime-main.da975d08.js.map",
+    "static/js/2.6eb259ab.chunk.js": "/jonguolee/space-app/static/js/2.6eb259ab.chunk.js",
+    "static/js/2.6eb259ab.chunk.js.map": "/jonguolee/space-app/static/js/2.6eb259ab.chunk.js.map",
+    "static/js/3.e772f637.chunk.js": "/jonguolee/space-app/static/js/3.e772f637.chunk.js",
+    "static/js/3.e772f637.chunk.js.map": "/jonguolee/space-app/static/js/3.e772f637.chunk.js.map",
+    "index.html": "/jonguolee/space-app/index.html",
+    "static/css/main.92121535.chunk.css.map": "/jonguolee/space-app/static/css/main.92121535.chunk.css.map",
+    "static/js/2.6eb259ab.chunk.js.LICENSE.txt": "/jonguolee/space-app/static/js/2.6eb259ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da975d08.js",
+    "static/js/2.6eb259ab.chunk.js",
+    "static/css/main.92121535.chunk.css",
+    "static/js/main.6e943da2.chunk.js"
+  ]
+}
